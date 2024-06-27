@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "pollo frito",
+        "ingredientes": ["pollo", "arroz", "papas"],
+        "imagen": "app/src/imagenes/pollofrito.jpg"
+    },
+    {
+        "nombre": "tallarines rojos",
+        "ingredientes": ["pollo", "fideos", "tomate","zanahoria"],
+        "imagen": "app/src/imagenes/tallarines.jpg"
+    },
+    {
+        "nombre": "estofado de pollo",
+        "ingredientes": ["pollo", "arroz", "tomate","zanahoria", "alberja"],
+        "imagen": "app/src/imagenes/estofado.jpg"
+    }
+]
